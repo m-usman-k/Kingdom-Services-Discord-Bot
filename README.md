@@ -38,8 +38,8 @@ This Discord bot provides several commands for administrators to make announceme
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repo-name/discord-bot.git
-    cd discord-bot
+    git clone [https://github.com/your-repo-name/discord-bot.git](https://github.com/m-usman-k/Kingdom-Services-Discord-Bot.git)
+    cd Kingdom-Services-Discord-Bot
     ```
 
 2. Install the required dependencies:
@@ -70,7 +70,7 @@ This Discord bot provides several commands for administrators to make announceme
 1. Start the bot:
 
     ```bash
-    python bot.py
+    python main.py
     ```
 
 2. The bot will sync with the server and be ready to accept commands. Administrators can use the commands listed above.
